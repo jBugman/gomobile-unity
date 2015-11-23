@@ -1,0 +1,10 @@
+golib.aar
+
+Library/
+Temp/
+Build/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
